@@ -6,4 +6,7 @@ How to use it.
   Use an output serial flow connected to the output node of your desired integer payload
   Upload the arduino sketch on the Heltec LoRa board using arduino IDE
   That's all
+Explained here
+https://www.youtube.com/watch?v=ZogReF-ABts&t=1s
+
 
